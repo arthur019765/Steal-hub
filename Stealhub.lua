@@ -777,7 +777,7 @@ DebugInfo("print", "ArbixTPGui initialization completed", "")
 ]]
 
 local ScreenGui = Instance.new("ScreenGui")
-ScreenGui.Name = "ArbixHub"
+ScreenGui.Name = "Stealhub"
 ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 ScreenGui.IgnoreGuiInset = true
 ScreenGui.DisplayOrder = 999
@@ -851,7 +851,7 @@ TitleLabel.BackgroundTransparency = 1
 TitleLabel.Size = UDim2.new(1, -80, 1, 0)
 TitleLabel.Position = UDim2.new(0, 15, 0, 0)
 TitleLabel.Font = Enum.Font.GothamBlack
-TitleLabel.Text = "ARBIX HUB"
+TitleLabel.Text = "STEAL HUB"
 TitleLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
 TitleLabel.TextSize = 20
 TitleLabel.TextXAlignment = Enum.TextXAlignment.Left
